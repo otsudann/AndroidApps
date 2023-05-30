@@ -1,0 +1,18 @@
+config_version=5
+
+[application]
+
+config/name="DoYouHaveTwoDollars"
+config/features=PackedStringArray("4.0", "Forward Plus")
+config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=300
+window/size/viewport_height=600
+window/stretch/aspect="expand"
+window/handheld/orientation=1
+
+[rendering]
+
+environment/defaults/default_clear_color=Color(0, 0, 0, 1)
